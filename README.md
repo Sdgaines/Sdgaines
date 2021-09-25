@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sdgaines or Sam Gaines
-- 👀 I’m interested in ... writing and video games
-- 🌱 I’m currently learning ... Web Developement
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in writing and video games
+- 🌱 I’m currently learning Web Developement
+-
 - 📫 How to reach me ... sdgaines34@gmail.com
 
 <!---
